@@ -21,3 +21,7 @@ The model for recommending movies is based on cosine similarity. Cosine similari
 
 ## __Results__<br>
 The system provides the top 10 recommended movies for any selected movie title. It also fetches and displays the posters of these recommended movies using the TMDB API.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/872597bb-7edf-49ae-9192-cd9cc65eabab" alt="Image" width="400"/>
+</p>
+
